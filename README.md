@@ -92,3 +92,29 @@ The upstream dataset currently lists the following upstream datasources:
 - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
 - Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+
+
+### Note
+Hi,
+Recently, some of the countries have stopped reporting Covid data and it is also found discrepancies in data if taken from multiple sources. Data reported till July 2020 is quite accurate so we will only explore from Jan 2020 to July 2020.
+
+Ref.
+
+https://covidtracking.com/about-data/faq#why-have-you-stopped-reporting-national-recoveries
+
+https://github.com/CSSEGISandData/COVID-19/issues/3464
+
+https://github.com/CSSEGISandData/COVID-19/issues
+
+1. Active Cases are calculated based on recoveries so this will not be also correct
+2. Anything that requires recoveries in the calculation isn't 100% correct, like deaths/100recoveries, etc.
+
+Here is some article to understand it
+
+https://www.dallasnews.com/news/public-health/2020/05/19/why-arent-coronavirus-recoveries-always-reported/
+
+https://abc11.com/nc-coronavirus-recovery-cases-update/6127051/
+
+
+
+Most of these reports are based on the US but mostly it is true for the rest of the world.
