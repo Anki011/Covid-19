@@ -349,6 +349,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Afghanistan,53011,2237,42530,8244,1485,803,46
 2021-01-05,Afghanistan,53105,2244,42666,8195,94,136,7
 2021-01-06,Afghanistan,53105,2244,42666,8195,0,0,0
+2021-01-07,Afghanistan,53207,2253,43291,7663,102,625,9
 2020-01-23,Albania,0,0,0,0,0,0,0
 2020-01-24,Albania,0,0,0,0,0,0,0
 2020-01-25,Albania,0,0,0,0,0,0,0
@@ -699,6 +700,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Albania,59623,1199,34996,23428,185,348,6
 2021-01-05,Albania,60283,1210,35551,23522,660,555,11
 2021-01-06,Albania,61008,1217,36102,23689,725,551,7
+2021-01-07,Albania,61705,1223,36535,23947,697,433,6
 2020-01-23,Algeria,0,0,0,0,0,0,0
 2020-01-24,Algeria,0,0,0,0,0,0,0
 2020-01-25,Algeria,0,0,0,0,0,0,0
@@ -1049,6 +1051,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Algeria,100645,2777,67999,29869,237,191,5
 2021-01-05,Algeria,100873,2782,68185,29906,228,186,5
 2021-01-06,Algeria,101120,2786,68383,29951,247,198,4
+2021-01-07,Algeria,101382,2792,68589,30001,262,206,6
 2020-01-23,Andorra,0,0,0,0,0,0,0
 2020-01-24,Andorra,0,0,0,0,0,0,0
 2020-01-25,Andorra,0,0,0,0,0,0,0
@@ -1399,6 +1402,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Andorra,8249,84,7548,617,57,31,0
 2021-01-05,Andorra,8308,84,7585,639,59,37,0
 2021-01-06,Andorra,8348,84,7615,649,40,30,0
+2021-01-07,Andorra,8348,84,7615,649,0,0,0
 2020-01-23,Angola,0,0,0,0,0,0,0
 2020-01-24,Angola,0,0,0,0,0,0,0
 2020-01-25,Angola,0,0,0,0,0,0,0
@@ -1749,6 +1753,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Angola,17684,408,11266,6010,42,43,0
 2021-01-05,Angola,17756,410,11376,5970,72,110,2
 2021-01-06,Angola,17864,413,11477,5974,108,101,3
+2021-01-07,Angola,17974,413,11955,5606,110,478,0
 2020-01-23,Antigua and Barbuda,0,0,0,0,0,0,0
 2020-01-24,Antigua and Barbuda,0,0,0,0,0,0,0
 2020-01-25,Antigua and Barbuda,0,0,0,0,0,0,0
@@ -2099,6 +2104,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Antigua and Barbuda,160,5,148,7,0,0,0
 2021-01-05,Antigua and Barbuda,160,5,148,7,0,0,0
 2021-01-06,Antigua and Barbuda,163,5,149,9,3,1,0
+2021-01-07,Antigua and Barbuda,163,5,149,9,0,0,0
 2020-01-23,Argentina,0,0,0,0,0,0,0
 2020-01-24,Argentina,0,0,0,0,0,0,0
 2020-01-25,Argentina,0,0,0,0,0,0,0
@@ -2449,6 +2455,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Argentina,1648940,43634,1458083,147223,8222,5123,152
 2021-01-05,Argentina,1662730,43785,1466616,152329,13790,8533,151
 2021-01-06,Argentina,1676171,43976,1474048,158147,13441,7432,191
+2021-01-07,Argentina,1690006,44122,1484794,161090,13835,10746,146
 2020-01-23,Armenia,0,0,0,0,0,0,0
 2020-01-24,Armenia,0,0,0,0,0,0,0
 2020-01-25,Armenia,0,0,0,0,0,0,0
@@ -2799,6 +2806,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Armenia,160220,2864,144831,12525,193,740,14
 2021-01-05,Armenia,160544,2878,145759,11907,324,928,14
 2021-01-06,Armenia,160853,2890,146576,11387,309,817,12
+2021-01-07,Armenia,161054,2901,147388,10765,201,812,11
 2020-01-23,Australia,0,0,0,0,0,0,0
 2020-01-24,Australia,0,0,0,0,0,0,0
 2020-01-25,Australia,0,0,0,0,2,0,0
@@ -3149,6 +3157,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Australia,28517,909,25786,1822,13,8,0
 2021-01-05,Australia,28536,909,25802,1825,19,16,0
 2021-01-06,Australia,28546,909,25810,1827,10,8,0
+2021-01-07,Australia,28571,909,25817,1845,25,7,0
 2020-01-23,Austria,0,0,0,0,0,0,0
 2020-01-24,Austria,0,0,0,0,0,0,0
 2020-01-25,Austria,0,0,0,0,0,0,0
@@ -3499,6 +3508,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Austria,367410,6357,340273,20780,1642,1442,33
 2021-01-05,Austria,369721,6457,343039,20225,2311,2766,100
 2021-01-06,Austria,372190,6525,344974,20691,2469,1935,68
+2021-01-07,Austria,374730,6568,346901,21261,2540,1927,43
 2020-01-23,Azerbaijan,0,0,0,0,0,0,0
 2020-01-24,Azerbaijan,0,0,0,0,0,0,0
 2020-01-25,Azerbaijan,0,0,0,0,0,0,0
@@ -3849,6 +3859,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Azerbaijan,220599,2761,196734,21104,334,1891,28
 2021-01-05,Azerbaijan,221401,2792,199213,19396,802,2479,31
 2021-01-06,Azerbaijan,222200,2818,201596,17786,799,2383,26
+2021-01-07,Azerbaijan,222885,2845,203527,16513,685,1931,27
 2020-01-23,Bahamas,0,0,0,0,0,0,0
 2020-01-24,Bahamas,0,0,0,0,0,0,0
 2020-01-25,Bahamas,0,0,0,0,0,0,0
@@ -4199,6 +4210,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Bahamas,7924,175,6239,1510,10,0,0
 2021-01-05,Bahamas,7928,175,6260,1493,4,21,0
 2021-01-06,Bahamas,7945,175,6277,1493,17,17,0
+2021-01-07,Bahamas,7959,175,6297,1487,14,20,0
 2020-01-23,Bahrain,0,0,0,0,0,0,0
 2020-01-24,Bahrain,0,0,0,0,0,0,0
 2020-01-25,Bahrain,0,0,0,0,0,0,0
@@ -4549,6 +4561,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Bahrain,93766,352,90995,2419,288,309,0
 2021-01-05,Bahrain,93995,352,91213,2430,229,218,0
 2021-01-06,Bahrain,94284,353,91431,2500,289,218,1
+2021-01-07,Bahrain,94633,353,91630,2650,349,199,0
 2020-01-23,Bangladesh,0,0,0,0,0,0,0
 2020-01-24,Bangladesh,0,0,0,0,0,0,0
 2020-01-25,Bangladesh,0,0,0,0,0,0,0
@@ -4899,6 +4912,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Bangladesh,516929,7650,461515,47764,910,917,24
 2021-01-05,Bangladesh,517920,7670,462459,47791,991,944,20
 2021-01-06,Bangladesh,518898,7687,463480,47731,978,1021,17
+2021-01-07,Bangladesh,519905,7718,464446,47741,1007,966,31
 2020-01-23,Barbados,0,0,0,0,0,0,0
 2020-01-24,Barbados,0,0,0,0,0,0,0
 2020-01-25,Barbados,0,0,0,0,0,0,0
@@ -5249,6 +5263,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Barbados,606,7,324,275,50,5,0
 2021-01-05,Barbados,643,7,324,312,37,0,0
 2021-01-06,Barbados,743,7,327,409,100,3,0
+2021-01-07,Barbados,743,7,327,409,0,0,0
 2020-01-23,Belarus,0,0,0,0,0,0,0
 2020-01-24,Belarus,0,0,0,0,0,0,0
 2020-01-25,Belarus,0,0,0,0,0,0,0
@@ -5599,6 +5614,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Belarus,201831,1461,183625,16745,1869,995,10
 2021-01-05,Belarus,203104,1471,184574,17059,1273,949,10
 2021-01-06,Belarus,204958,1480,186394,17084,1854,1820,9
+2021-01-07,Belarus,206796,1489,188789,16518,1838,2395,9
 2020-01-23,Belgium,0,0,0,0,0,0,0
 2020-01-24,Belgium,0,0,0,0,0,0,0
 2020-01-25,Belgium,0,0,0,0,0,0,0
@@ -5949,6 +5965,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Belgium,650887,19750,0,631137,876,0,49
 2021-01-05,Belgium,652735,19827,0,632908,1848,0,77
 2021-01-06,Belgium,655732,19883,0,635849,2997,0,56
+2021-01-07,Belgium,658655,19936,0,638719,2923,0,53
 2020-01-23,Belize,0,0,0,0,0,0,0
 2020-01-24,Belize,0,0,0,0,0,0,0
 2020-01-25,Belize,0,0,0,0,0,0,0
@@ -6299,6 +6316,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Belize,10938,257,10095,586,37,101,7
 2021-01-05,Belize,11018,258,10230,530,80,135,1
 2021-01-06,Belize,11108,260,10312,536,90,82,2
+2021-01-07,Belize,11152,267,10344,541,44,32,7
 2020-01-23,Benin,0,0,0,0,0,0,0
 2020-01-24,Benin,0,0,0,0,0,0,0
 2020-01-25,Benin,0,0,0,0,0,0,0
@@ -6649,6 +6667,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Benin,3251,44,3061,146,0,0,0
 2021-01-05,Benin,3304,44,3185,75,53,124,0
 2021-01-06,Benin,3304,44,3185,75,0,0,0
+2021-01-07,Benin,3304,44,3185,75,0,0,0
 2020-01-23,Bhutan,0,0,0,0,0,0,0
 2020-01-24,Bhutan,0,0,0,0,0,0,0
 2020-01-25,Bhutan,0,0,0,0,0,0,0
@@ -6999,6 +7018,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Bhutan,734,0,453,281,18,3,0
 2021-01-05,Bhutan,734,0,456,278,0,3,0
 2021-01-06,Bhutan,755,0,456,299,21,0,0
+2021-01-07,Bhutan,767,0,459,308,12,3,0
 2020-01-23,Bolivia,0,0,0,0,0,0,0
 2020-01-24,Bolivia,0,0,0,0,0,0,0
 2020-01-25,Bolivia,0,0,0,0,0,0,0
@@ -7349,6 +7369,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Bolivia,163671,9219,133671,20781,1010,424,18
 2021-01-05,Bolivia,165268,9241,134503,21524,1597,832,22
 2021-01-06,Bolivia,166981,9287,135186,22508,1713,683,46
+2021-01-07,Bolivia,168891,9304,136266,23321,1910,1080,17
 2020-01-23,Bosnia and Herzegovina,0,0,0,0,0,0,0
 2020-01-24,Bosnia and Herzegovina,0,0,0,0,0,0,0
 2020-01-25,Bosnia and Herzegovina,0,0,0,0,0,0,0
@@ -7699,6 +7720,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Bosnia and Herzegovina,112645,4131,77891,30623,0,0,0
 2021-01-05,Bosnia and Herzegovina,113392,4211,79465,29716,747,1574,80
 2021-01-06,Bosnia and Herzegovina,113392,4211,79465,29716,0,0,0
+2021-01-07,Bosnia and Herzegovina,113392,4211,79465,29716,0,0,0
 2020-01-23,Botswana,0,0,0,0,0,0,0
 2020-01-24,Botswana,0,0,0,0,0,0,0
 2020-01-25,Botswana,0,0,0,0,0,0,0
@@ -8049,6 +8071,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Botswana,15368,45,12481,2842,563,345,3
 2021-01-05,Botswana,15440,45,12481,2914,72,0,0
 2021-01-06,Botswana,15440,45,12481,2914,0,0,0
+2021-01-07,Botswana,16050,48,12927,3075,610,446,3
 2020-01-23,Brazil,0,0,0,0,0,0,0
 2020-01-24,Brazil,0,0,0,0,0,0,0
 2020-01-25,Brazil,0,0,0,0,0,0,0
@@ -8399,6 +8422,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Brazil,7753752,196561,6950045,607146,20006,45873,543
 2021-01-05,Brazil,7810400,197732,6994845,617823,56648,44800,1171
 2021-01-06,Brazil,7873830,198974,7033286,641570,63430,38441,1242
+2021-01-07,Brazil,7961673,200498,7081521,679654,87843,48235,1524
 2020-01-23,Brunei,0,0,0,0,0,0,0
 2020-01-24,Brunei,0,0,0,0,0,0,0
 2020-01-25,Brunei,0,0,0,0,0,0,0
@@ -8749,6 +8773,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Brunei,172,3,149,20,0,0,0
 2021-01-05,Brunei,172,3,149,20,0,0,0
 2021-01-06,Brunei,172,3,149,20,0,0,0
+2021-01-07,Brunei,173,3,149,21,1,0,0
 2020-01-23,Bulgaria,0,0,0,0,0,0,0
 2020-01-24,Bulgaria,0,0,0,0,0,0,0
 2020-01-25,Bulgaria,0,0,0,0,0,0,0
@@ -9099,6 +9124,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Bulgaria,204080,7835,124624,71621,1029,2213,157
 2021-01-05,Bulgaria,205390,7902,126766,70722,1310,2142,67
 2021-01-06,Bulgaria,206392,7961,128789,69642,1002,2023,59
+2021-01-07,Bulgaria,207259,8017,130191,69051,867,1402,56
 2020-01-23,Burkina Faso,0,0,0,0,0,0,0
 2020-01-24,Burkina Faso,0,0,0,0,0,0,0
 2020-01-25,Burkina Faso,0,0,0,0,0,0,0
@@ -9449,6 +9475,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Burkina Faso,7126,86,5300,1740,75,41,0
 2021-01-05,Burkina Faso,7342,86,5443,1813,216,143,0
 2021-01-06,Burkina Faso,7563,89,5474,2000,221,31,3
+2021-01-07,Burkina Faso,7713,89,5533,2091,150,59,0
 2020-01-23,Burma,0,0,0,0,0,0,0
 2020-01-24,Burma,0,0,0,0,0,0,0
 2020-01-25,Burma,0,0,0,0,0,0,0
@@ -9799,6 +9826,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Burma,126935,2744,110200,13991,590,652,16
 2021-01-05,Burma,127584,2766,110805,14013,649,605,22
 2021-01-06,Burma,128178,2785,111401,13992,594,596,19
+2021-01-07,Burma,128772,2799,112048,13925,594,647,14
 2020-01-23,Burundi,0,0,0,0,0,0,0
 2020-01-24,Burundi,0,0,0,0,0,0,0
 2020-01-25,Burundi,0,0,0,0,0,0,0
@@ -10149,6 +10177,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Burundi,842,2,687,153,9,0,0
 2021-01-05,Burundi,842,2,687,153,0,0,0
 2021-01-06,Burundi,884,2,773,109,42,86,0
+2021-01-07,Burundi,885,2,773,110,1,0,0
 2020-01-23,Cabo Verde,0,0,0,0,0,0,0
 2020-01-24,Cabo Verde,0,0,0,0,0,0,0
 2020-01-25,Cabo Verde,0,0,0,0,0,0,0
@@ -10499,6 +10528,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Cabo Verde,11949,113,11597,239,29,17,0
 2021-01-05,Cabo Verde,11983,113,11608,262,34,11,0
 2021-01-06,Cabo Verde,12052,113,11633,306,69,25,0
+2021-01-07,Cabo Verde,12146,113,11665,368,94,32,0
 2020-01-23,Cambodia,0,0,0,0,0,0,0
 2020-01-24,Cambodia,0,0,0,0,0,0,0
 2020-01-25,Cambodia,0,0,0,0,0,0,0
@@ -10849,6 +10879,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Cambodia,382,0,362,20,0,0,0
 2021-01-05,Cambodia,383,0,362,21,1,0,0
 2021-01-06,Cambodia,385,0,362,23,2,0,0
+2021-01-07,Cambodia,386,0,362,24,1,0,0
 2020-01-23,Cameroon,0,0,0,0,0,0,0
 2020-01-24,Cameroon,0,0,0,0,0,0,0
 2020-01-25,Cameroon,0,0,0,0,0,0,0
@@ -11199,6 +11230,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Cameroon,26848,448,24892,1508,0,0,0
 2021-01-05,Cameroon,26848,448,24892,1508,0,0,0
 2021-01-06,Cameroon,26848,448,24892,1508,0,0,0
+2021-01-07,Cameroon,26848,448,24892,1508,0,0,0
 2020-01-23,Canada,0,0,0,0,0,0,0
 2020-01-24,Canada,0,0,0,0,0,0,0
 2020-01-25,Canada,0,0,0,0,0,0,0
@@ -11549,6 +11581,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Canada,616134,16098,523448,76588,10058,12853,218
 2021-01-05,Canada,623384,16253,529580,77551,7250,6132,155
 2021-01-06,Canada,631466,16403,537024,78039,8082,7444,150
+2021-01-07,Canada,639693,16595,544047,79051,8227,7023,192
 2020-01-23,Central African Republic,0,0,0,0,0,0,0
 2020-01-24,Central African Republic,0,0,0,0,0,0,0
 2020-01-25,Central African Republic,0,0,0,0,0,0,0
@@ -11899,6 +11932,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Central African Republic,4963,63,1924,2976,0,0,0
 2021-01-05,Central African Republic,4963,63,1924,2976,0,0,0
 2021-01-06,Central African Republic,4963,63,1924,2976,0,0,0
+2021-01-07,Central African Republic,4969,63,4885,21,6,2961,0
 2020-01-23,Chad,0,0,0,0,0,0,0
 2020-01-24,Chad,0,0,0,0,0,0,0
 2020-01-25,Chad,0,0,0,0,0,0,0
@@ -12249,6 +12283,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Chad,2229,104,1724,401,16,4,0
 2021-01-05,Chad,2289,105,1876,308,60,152,1
 2021-01-06,Chad,2328,105,1888,335,39,12,0
+2021-01-07,Chad,2358,105,1918,335,30,30,0
 2020-01-23,Chile,0,0,0,0,0,0,0
 2020-01-24,Chile,0,0,0,0,0,0,0
 2020-01-25,Chile,0,0,0,0,0,0,0
@@ -12599,6 +12634,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Chile,620641,16767,586900,16974,2450,2443,0
 2021-01-05,Chile,623101,16788,588991,17322,2460,2091,21
 2021-01-06,Chile,625483,16816,591081,17586,2382,2090,28
+2021-01-07,Chile,629176,16913,593235,19028,3693,2154,97
 2020-01-23,China,643,18,30,595,95,2,1
 2020-01-24,China,920,26,36,858,277,6,8
 2020-01-25,China,1406,42,39,1325,486,3,16
@@ -12949,6 +12985,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,China,96246,4787,90213,1246,86,54,3
 2021-01-05,China,96310,4787,90306,1217,64,93,0
 2021-01-06,China,96398,4788,90400,1210,88,94,1
+2021-01-07,China,96484,4788,90478,1218,86,78,0
 2020-01-23,Colombia,0,0,0,0,0,0,0
 2020-01-24,Colombia,0,0,0,0,0,0,0
 2020-01-25,Colombia,0,0,0,0,0,0,0
@@ -13299,6 +13336,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Colombia,1686131,44187,1552179,89765,10311,9826,222
 2021-01-05,Colombia,1702966,44428,1559010,99528,16835,6831,241
 2021-01-06,Colombia,1719771,44723,1569578,105470,16805,10568,295
+2021-01-07,Colombia,1737347,45067,1580285,111995,17576,10707,344
 2020-01-23,Comoros,0,0,0,0,0,0,0
 2020-01-24,Comoros,0,0,0,0,0,0,0
 2020-01-25,Comoros,0,0,0,0,0,0,0
@@ -13649,6 +13687,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Comoros,864,13,732,119,0,0,0
 2021-01-05,Comoros,995,13,759,223,131,27,0
 2021-01-06,Comoros,995,13,759,223,0,0,0
+2021-01-07,Comoros,1050,16,802,232,55,43,3
 2020-01-23,Congo (Brazzaville),0,0,0,0,0,0,0
 2020-01-24,Congo (Brazzaville),0,0,0,0,0,0,0
 2020-01-25,Congo (Brazzaville),0,0,0,0,0,0,0
@@ -13999,6 +14038,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Congo (Brazzaville),7107,108,5846,1153,0,0,0
 2021-01-05,Congo (Brazzaville),7107,108,5846,1153,0,0,0
 2021-01-06,Congo (Brazzaville),7127,108,5846,1173,20,0,0
+2021-01-07,Congo (Brazzaville),7127,108,5846,1173,0,0,0
 2020-01-23,Congo (Kinshasa),0,0,0,0,0,0,0
 2020-01-24,Congo (Kinshasa),0,0,0,0,0,0,0
 2020-01-25,Congo (Kinshasa),0,0,0,0,0,0,0
@@ -14349,6 +14389,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Congo (Kinshasa),18153,599,14723,2831,51,7,3
 2021-01-05,Congo (Kinshasa),18248,599,14723,2926,95,0,0
 2021-01-06,Congo (Kinshasa),18487,599,14723,3165,239,0,0
+2021-01-07,Congo (Kinshasa),18738,610,14735,3393,251,12,11
 2020-01-23,Costa Rica,0,0,0,0,0,0,0
 2020-01-24,Costa Rica,0,0,0,0,0,0,0
 2020-01-25,Costa Rica,0,0,0,0,0,0,0
@@ -14699,6 +14740,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Costa Rica,172436,2229,132916,37291,3115,993,44
 2021-01-05,Costa Rica,173591,2248,133607,37736,1155,691,19
 2021-01-06,Costa Rica,175038,2267,134911,37860,1447,1304,19
+2021-01-07,Costa Rica,176407,2286,135475,38646,1369,564,19
 2020-01-23,Cote d'Ivoire,0,0,0,0,0,0,0
 2020-01-24,Cote d'Ivoire,0,0,0,0,0,0,0
 2020-01-25,Cote d'Ivoire,0,0,0,0,0,0,0
@@ -15049,6 +15091,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Cote d'Ivoire,22800,138,22145,517,152,147,0
 2021-01-05,Cote d'Ivoire,22855,138,22154,563,55,9,0
 2021-01-06,Cote d'Ivoire,22963,138,22212,613,108,58,0
+2021-01-07,Cote d'Ivoire,23173,138,22301,734,210,89,0
 2020-01-23,Croatia,0,0,0,0,0,0,0
 2020-01-24,Croatia,0,0,0,0,0,0,0
 2020-01-25,Croatia,0,0,0,0,0,0,0
@@ -15399,6 +15442,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Croatia,213319,4126,203294,5899,361,852,54
 2021-01-05,Croatia,214390,4179,204303,5908,1071,1009,53
 2021-01-06,Croatia,216286,4223,205078,6985,1896,775,44
+2021-01-07,Croatia,216848,4266,206310,6272,562,1232,43
 2020-01-23,Cuba,0,0,0,0,0,0,0
 2020-01-24,Cuba,0,0,0,0,0,0,0
 2020-01-25,Cuba,0,0,0,0,0,0,0
@@ -15749,6 +15793,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Cuba,12740,147,10837,1756,316,161,0
 2021-01-05,Cuba,12964,147,11036,1781,224,199,0
 2021-01-06,Cuba,13165,148,11248,1769,201,212,1
+2021-01-07,Cuba,13479,148,11390,1941,314,142,0
 2020-01-23,Cyprus,0,0,0,0,0,0,0
 2020-01-24,Cyprus,0,0,0,0,0,0,0
 2020-01-25,Cyprus,0,0,0,0,0,0,0
@@ -16099,6 +16144,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Cyprus,24639,133,2057,22449,665,0,2
 2021-01-05,Cyprus,25208,134,2057,23017,569,0,1
 2021-01-06,Cyprus,25781,138,2057,23586,573,0,4
+2021-01-07,Cyprus,26208,140,2057,24011,427,0,2
 2020-01-23,Czechia,0,0,0,0,0,0,0
 2020-01-24,Czechia,0,0,0,0,0,0,0
 2020-01-25,Czechia,0,0,0,0,0,0,0
@@ -16449,6 +16495,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Czechia,746714,12070,615083,119561,6233,2869,110
 2021-01-05,Czechia,759635,12257,625890,121488,12921,10807,187
 2021-01-06,Czechia,776967,12436,638183,126348,17332,12293,179
+2021-01-07,Czechia,794740,12621,649394,132725,17773,11211,185
 2020-01-23,Denmark,0,0,0,0,0,0,0
 2020-01-24,Denmark,0,0,0,0,0,0,0
 2020-01-25,Denmark,0,0,0,0,0,0,0
@@ -16799,6 +16846,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Denmark,171436,1389,139600,30447,2078,2417,15
 2021-01-05,Denmark,173433,1420,142650,29363,1997,3050,31
 2021-01-06,Denmark,175663,1451,145459,28753,2230,2809,31
+2021-01-07,Denmark,177507,1488,148476,27543,1844,3017,37
 2020-01-23,Diamond Princess,0,0,0,0,0,0,0
 2020-01-24,Diamond Princess,0,0,0,0,0,0,0
 2020-01-25,Diamond Princess,0,0,0,0,0,0,0
@@ -17149,6 +17197,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Diamond Princess,712,13,699,0,0,0,0
 2021-01-05,Diamond Princess,712,13,699,0,0,0,0
 2021-01-06,Diamond Princess,712,13,699,0,0,0,0
+2021-01-07,Diamond Princess,712,13,699,0,0,0,0
 2020-01-23,Djibouti,0,0,0,0,0,0,0
 2020-01-24,Djibouti,0,0,0,0,0,0,0
 2020-01-25,Djibouti,0,0,0,0,0,0,0
@@ -17499,6 +17548,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Djibouti,5846,61,5747,38,4,6,0
 2021-01-05,Djibouti,5854,61,5752,41,8,5,0
 2021-01-06,Djibouti,5855,61,5758,36,1,6,0
+2021-01-07,Djibouti,5857,61,5766,30,2,8,0
 2020-01-23,Dominica,0,0,0,0,0,0,0
 2020-01-24,Dominica,0,0,0,0,0,0,0
 2020-01-25,Dominica,0,0,0,0,0,0,0
@@ -17849,6 +17899,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Dominica,88,0,83,5,0,0,0
 2021-01-05,Dominica,88,0,83,5,0,0,0
 2021-01-06,Dominica,105,0,93,12,17,10,0
+2021-01-07,Dominica,105,0,93,12,0,0,0
 2020-01-23,Dominican Republic,0,0,0,0,0,0,0
 2020-01-24,Dominican Republic,0,0,0,0,0,0,0
 2020-01-25,Dominican Republic,0,0,0,0,0,0,0
@@ -18199,6 +18250,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Dominican Republic,175374,2419,133812,39143,2043,877,1
 2021-01-05,Dominican Republic,175849,2419,134331,39099,475,519,0
 2021-01-06,Dominican Republic,176378,2419,134932,39027,529,601,0
+2021-01-07,Dominican Republic,177493,2423,135587,39483,1115,655,4
 2020-01-23,Ecuador,0,0,0,0,0,0,0
 2020-01-24,Ecuador,0,0,0,0,0,0,0
 2020-01-25,Ecuador,0,0,0,0,0,0,0
@@ -18549,6 +18601,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Ecuador,215080,14069,190350,10661,466,0,10
 2021-01-05,Ecuador,216083,14103,190350,11630,1003,0,34
 2021-01-06,Ecuador,217377,14146,190350,12881,1294,0,43
+2021-01-07,Ecuador,218385,14158,190350,13877,1008,0,12
 2020-01-23,Egypt,0,0,0,0,0,0,0
 2020-01-24,Egypt,0,0,0,0,0,0,0
 2020-01-25,Egypt,0,0,0,0,0,0,0
@@ -18899,6 +18952,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Egypt,143464,7863,114601,21000,1277,703,58
 2021-01-05,Egypt,144583,7918,115414,21251,1119,813,55
 2021-01-06,Egypt,145590,7975,115975,21640,1007,561,57
+2021-01-07,Egypt,146809,8029,116775,22005,1219,800,54
 2020-01-23,El Salvador,0,0,0,0,0,0,0
 2020-01-24,El Salvador,0,0,0,0,0,0,0
 2020-01-25,El Salvador,0,0,0,0,0,0,0
@@ -19249,6 +19303,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,El Salvador,47087,1364,42004,3719,284,217,6
 2021-01-05,El Salvador,47355,1373,42225,3757,268,221,9
 2021-01-06,El Salvador,47355,1382,42225,3748,0,0,9
+2021-01-07,El Salvador,47948,1390,42668,3890,593,443,8
 2020-01-23,Equatorial Guinea,0,0,0,0,0,0,0
 2020-01-24,Equatorial Guinea,0,0,0,0,0,0,0
 2020-01-25,Equatorial Guinea,0,0,0,0,0,0,0
@@ -19599,6 +19654,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Equatorial Guinea,5279,86,5143,50,2,7,0
 2021-01-05,Equatorial Guinea,5279,86,5143,50,0,0,0
 2021-01-06,Equatorial Guinea,5286,86,5154,46,7,11,0
+2021-01-07,Equatorial Guinea,5286,86,5154,46,0,0,0
 2020-01-23,Eritrea,0,0,0,0,0,0,0
 2020-01-24,Eritrea,0,0,0,0,0,0,0
 2020-01-25,Eritrea,0,0,0,0,0,0,0
@@ -19949,6 +20005,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Eritrea,1252,1,643,608,0,0,0
 2021-01-05,Eritrea,1252,1,643,608,0,0,0
 2021-01-06,Eritrea,1252,1,643,608,0,0,0
+2021-01-07,Eritrea,1445,3,740,702,193,97,2
 2020-01-23,Estonia,0,0,0,0,0,0,0
 2020-01-24,Estonia,0,0,0,0,0,0,0
 2020-01-25,Estonia,0,0,0,0,0,0,0
@@ -20299,6 +20356,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Estonia,29521,251,19453,9817,390,130,7
 2021-01-05,Estonia,29950,258,20507,9185,429,1054,7
 2021-01-06,Estonia,30667,261,21071,9335,717,564,3
+2021-01-07,Estonia,31751,265,21567,9919,1084,496,4
 2020-01-23,Eswatini,0,0,0,0,0,0,0
 2020-01-24,Eswatini,0,0,0,0,0,0,0
 2020-01-25,Eswatini,0,0,0,0,0,0,0
@@ -20649,6 +20707,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Eswatini,10138,244,7123,2771,195,10,13
 2021-01-05,Eswatini,10338,252,7134,2952,200,11,8
 2021-01-06,Eswatini,10539,261,7254,3024,201,120,9
+2021-01-07,Eswatini,10773,268,7377,3128,234,123,7
 2020-01-23,Ethiopia,0,0,0,0,0,0,0
 2020-01-24,Ethiopia,0,0,0,0,0,0,0
 2020-01-25,Ethiopia,0,0,0,0,0,0,0
@@ -20999,6 +21058,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Ethiopia,125919,1950,112610,11359,297,243,2
 2021-01-05,Ethiopia,126241,1963,112813,11465,322,203,13
 2021-01-06,Ethiopia,126786,1965,112974,11847,545,161,2
+2021-01-07,Ethiopia,127227,1966,113021,12240,441,47,1
 2020-01-23,Fiji,0,0,0,0,0,0,0
 2020-01-24,Fiji,0,0,0,0,0,0,0
 2020-01-25,Fiji,0,0,0,0,0,0,0
@@ -21349,6 +21409,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Fiji,49,2,44,3,0,0,0
 2021-01-05,Fiji,53,2,44,7,4,0,0
 2021-01-06,Fiji,53,2,44,7,0,0,0
+2021-01-07,Fiji,53,2,44,7,0,0,0
 2020-01-23,Finland,0,0,0,0,0,0,0
 2020-01-24,Finland,0,0,0,0,0,0,0
 2020-01-25,Finland,0,0,0,0,0,0,0
@@ -21699,6 +21760,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Finland,36919,565,29000,7354,147,0,4
 2021-01-05,Finland,37218,576,31000,5642,299,2000,11
 2021-01-06,Finland,37549,576,31000,5973,331,0,0
+2021-01-07,Finland,37772,584,31000,6188,223,0,8
 2020-01-23,France,0,0,0,0,1,0,0
 2020-01-24,France,2,0,0,2,2,0,0
 2020-01-25,France,3,0,0,3,1,0,0
@@ -22049,6 +22111,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,France,2717059,65549,201959,2449551,4084,651,385
 2021-01-05,France,2737884,66417,203425,2468042,20825,1466,868
 2021-01-06,France,2763116,66699,204679,2491738,25232,1254,282
+2021-01-07,France,2763370,66700,204680,2491990,254,1,1
 2020-01-23,Gabon,0,0,0,0,0,0,0
 2020-01-24,Gabon,0,0,0,0,0,0,0
 2020-01-25,Gabon,0,0,0,0,0,0,0
@@ -22399,6 +22462,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Gabon,9605,66,9415,124,34,27,2
 2021-01-05,Gabon,9605,66,9415,124,0,0,0
 2021-01-06,Gabon,9641,66,9453,122,36,38,0
+2021-01-07,Gabon,9641,66,9453,122,0,0,0
 2020-01-23,Gambia,0,0,0,0,0,0,0
 2020-01-24,Gambia,0,0,0,0,0,0,0
 2020-01-25,Gambia,0,0,0,0,0,0,0
@@ -22749,6 +22813,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Gambia,3800,124,3669,7,0,0,0
 2021-01-05,Gambia,3812,125,3677,10,12,8,1
 2021-01-06,Gambia,3812,125,3677,10,0,0,0
+2021-01-07,Gambia,3833,125,3677,31,21,0,0
 2020-01-23,Georgia,0,0,0,0,0,0,0
 2020-01-24,Georgia,0,0,0,0,0,0,0
 2020-01-25,Georgia,0,0,0,0,0,0,0
@@ -23099,6 +23164,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Georgia,229763,2628,222405,4730,594,1963,25
 2021-01-05,Georgia,232079,2646,222787,6646,2316,382,18
 2021-01-06,Georgia,233879,2666,223276,7937,1800,489,20
+2021-01-07,Georgia,235491,2694,223695,9102,1612,419,28
 2020-01-23,Germany,0,0,0,0,0,0,0
 2020-01-24,Germany,0,0,0,0,0,0,0
 2020-01-25,Germany,0,0,0,0,0,0,0
@@ -23449,6 +23515,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Germany,1796216,35748,1445442,315026,12320,23291,957
 2021-01-05,Germany,1814565,36757,1472311,305497,18349,26869,1009
 2021-01-06,Germany,1841228,37835,1496182,307211,26663,23871,1078
+2021-01-07,Germany,1886561,38987,1517019,330555,45333,20837,1152
 2020-01-23,Ghana,0,0,0,0,0,0,0
 2020-01-24,Ghana,0,0,0,0,0,0,0
 2020-01-25,Ghana,0,0,0,0,0,0,0
@@ -23799,6 +23866,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Ghana,55168,335,53928,905,0,0,0
 2021-01-05,Ghana,55168,335,53928,905,0,0,0
 2021-01-06,Ghana,55168,335,53928,905,0,0,0
+2021-01-07,Ghana,55461,336,54164,961,293,236,1
 2020-01-23,Greece,0,0,0,0,0,0,0
 2020-01-24,Greece,0,0,0,0,0,0,0
 2020-01-25,Greece,0,0,0,0,0,0,0
@@ -24149,6 +24217,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Greece,140526,5011,93764,41751,427,0,54
 2021-01-05,Greece,141453,5051,93764,42638,927,0,40
 2021-01-06,Greece,142267,5099,93764,43404,814,0,48
+2021-01-07,Greece,142777,5146,93764,43867,510,0,47
 2020-01-23,Grenada,0,0,0,0,0,0,0
 2020-01-24,Grenada,0,0,0,0,0,0,0
 2020-01-25,Grenada,0,0,0,0,0,0,0
@@ -24499,6 +24568,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Grenada,127,0,107,20,0,0,0
 2021-01-05,Grenada,127,0,107,20,0,0,0
 2021-01-06,Grenada,127,0,107,20,0,0,0
+2021-01-07,Grenada,127,0,107,20,0,0,0
 2020-01-23,Guatemala,0,0,0,0,0,0,0
 2020-01-24,Guatemala,0,0,0,0,0,0,0
 2020-01-25,Guatemala,0,0,0,0,0,0,0
@@ -24849,6 +24919,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Guatemala,138656,4835,127797,6024,181,347,2
 2021-01-05,Guatemala,139419,4859,128355,6205,763,558,24
 2021-01-06,Guatemala,140202,4899,128952,6351,783,597,40
+2021-01-07,Guatemala,141074,4928,129542,6604,872,590,29
 2020-01-23,Guinea,0,0,0,0,0,0,0
 2020-01-24,Guinea,0,0,0,0,0,0,0
 2020-01-25,Guinea,0,0,0,0,0,0,0
@@ -25199,6 +25270,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Guinea,13799,81,13186,532,15,33,0
 2021-01-05,Guinea,13845,81,13199,565,46,13,0
 2021-01-06,Guinea,13845,81,13199,565,0,0,0
+2021-01-07,Guinea,13904,81,13222,601,59,23,0
 2020-01-23,Guinea-Bissau,0,0,0,0,0,0,0
 2020-01-24,Guinea-Bissau,0,0,0,0,0,0,0
 2020-01-25,Guinea-Bissau,0,0,0,0,0,0,0
@@ -25549,6 +25621,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Guinea-Bissau,2455,45,2398,12,0,0,0
 2021-01-05,Guinea-Bissau,2455,45,2398,12,0,0,0
 2021-01-06,Guinea-Bissau,2455,45,2398,12,0,0,0
+2021-01-07,Guinea-Bissau,2455,45,2398,12,0,0,0
 2020-01-23,Guyana,0,0,0,0,0,0,0
 2020-01-24,Guyana,0,0,0,0,0,0,0
 2020-01-25,Guyana,0,0,0,0,0,0,0
@@ -25899,6 +25972,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Guyana,6379,166,5936,277,21,37,2
 2021-01-05,Guyana,6407,166,5948,293,28,12,0
 2021-01-06,Guyana,6407,166,5948,293,0,0,0
+2021-01-07,Guyana,6469,167,5990,312,62,42,1
 2020-01-23,Haiti,0,0,0,0,0,0,0
 2020-01-24,Haiti,0,0,0,0,0,0,0
 2020-01-25,Haiti,0,0,0,0,0,0,0
@@ -26249,6 +26323,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Haiti,10127,236,8672,1219,0,0,0
 2021-01-05,Haiti,10127,236,8672,1219,0,0,0
 2021-01-06,Haiti,10127,236,8672,1219,0,0,0
+2021-01-07,Haiti,10203,236,8725,1242,76,53,0
 2020-01-23,Holy See,0,0,0,0,0,0,0
 2020-01-24,Holy See,0,0,0,0,0,0,0
 2020-01-25,Holy See,0,0,0,0,0,0,0
@@ -26599,6 +26674,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Holy See,27,0,15,12,0,0,0
 2021-01-05,Holy See,27,0,15,12,0,0,0
 2021-01-06,Holy See,27,0,15,12,0,0,0
+2021-01-07,Holy See,27,0,15,12,0,0,0
 2020-01-23,Honduras,0,0,0,0,0,0,0
 2020-01-24,Honduras,0,0,0,0,0,0,0
 2020-01-25,Honduras,0,0,0,0,0,0,0
@@ -26949,6 +27025,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Honduras,123398,3181,57348,62869,29,0,1
 2021-01-05,Honduras,123822,3186,57348,63288,424,0,5
 2021-01-06,Honduras,124899,3192,57348,64359,1077,0,6
+2021-01-07,Honduras,125118,3200,57348,64570,219,0,8
 2020-01-23,Hungary,0,0,0,0,0,0,0
 2020-01-24,Hungary,0,0,0,0,0,0,0
 2020-01-25,Hungary,0,0,0,0,0,0,0
@@ -27299,6 +27376,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Hungary,328851,9977,174070,144804,856,5689,93
 2021-01-05,Hungary,329721,10080,176576,143065,870,2506,103
 2021-01-06,Hungary,331768,10198,179541,142029,2047,2965,118
+2021-01-07,Hungary,334836,10325,179541,144970,3068,0,127
 2020-01-23,Iceland,0,0,0,0,0,0,0
 2020-01-24,Iceland,0,0,0,0,0,0,0
 2020-01-25,Iceland,0,0,0,0,0,0,0
@@ -27649,6 +27727,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Iceland,5795,29,5665,101,41,87,0
 2021-01-05,Iceland,5811,29,5671,111,16,6,0
 2021-01-06,Iceland,5832,29,5676,127,21,5,0
+2021-01-07,Iceland,5845,29,5690,126,13,14,0
 2020-01-23,India,0,0,0,0,0,0,0
 2020-01-24,India,0,0,0,0,0,0,0
 2020-01-25,India,0,0,0,0,0,0,0
@@ -27999,6 +28078,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,India,10356844,149850,9975958,231036,16375,29091,201
 2021-01-05,India,10374932,150114,9997272,227546,18088,21314,264
 2021-01-06,India,10395278,150336,10016859,228083,20346,19587,222
+2021-01-07,India,10413417,150570,10037398,225449,18139,20539,234
 2020-01-23,Indonesia,0,0,0,0,0,0,0
 2020-01-24,Indonesia,0,0,0,0,0,0,0
 2020-01-25,Indonesia,0,0,0,0,0,0,0
@@ -28349,6 +28429,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Indonesia,772103,22911,639103,110089,6753,7166,177
 2021-01-05,Indonesia,779548,23109,645746,110693,7445,6643,198
 2021-01-06,Indonesia,788402,23296,652513,112593,8854,6767,187
+2021-01-07,Indonesia,797723,23520,659437,114766,9321,6924,224
 2020-01-23,Iran,0,0,0,0,0,0,0
 2020-01-24,Iran,0,0,0,0,0,0,0
 2020-01-25,Iran,0,0,0,0,0,0,0
@@ -28699,6 +28780,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Iran,1249507,55650,1020737,173120,6073,7719,110
 2021-01-05,Iran,1255620,55748,1029028,170844,6113,8291,98
 2021-01-06,Iran,1261903,55830,1040521,165552,6283,11493,82
+2021-01-07,Iran,1268263,55933,1050553,161777,6360,10032,103
 2020-01-23,Iraq,0,0,0,0,0,0,0
 2020-01-24,Iraq,0,0,0,0,0,0,0
 2020-01-25,Iraq,0,0,0,0,0,0,0
@@ -29049,6 +29131,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Iraq,598369,12844,545529,39996,595,1809,10
 2021-01-05,Iraq,599126,12856,547457,38813,757,1928,12
 2021-01-06,Iraq,599965,12865,549346,37754,839,1889,9
+2021-01-07,Iraq,600755,12869,551127,36759,790,1781,4
 2020-01-23,Ireland,0,0,0,0,0,0,0
 2020-01-24,Ireland,0,0,0,0,0,0,0
 2020-01-25,Ireland,0,0,0,0,0,0,0
@@ -29399,6 +29482,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Ireland,107997,2265,23364,82368,6110,0,6
 2021-01-05,Ireland,113322,2282,23364,87676,5325,0,17
 2021-01-06,Ireland,121154,2299,23364,95491,7832,0,17
+2021-01-07,Ireland,127657,2307,23364,101986,6503,0,8
 2020-01-23,Israel,0,0,0,0,0,0,0
 2020-01-24,Israel,0,0,0,0,0,0,0
 2020-01-25,Israel,0,0,0,0,0,0,0
@@ -29749,6 +29833,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Israel,448173,3445,390817,53911,6631,2333,29
 2021-01-05,Israel,456139,3496,393712,58931,7966,2895,51
 2021-01-06,Israel,463448,3529,398368,61551,7309,4656,33
+2021-01-07,Israel,471048,3552,402913,64583,7600,4545,23
 2020-01-23,Italy,0,0,0,0,0,0,0
 2020-01-24,Italy,0,0,0,0,0,0,0
 2020-01-25,Italy,0,0,0,0,0,0,0
@@ -30099,6 +30184,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Italy,2166244,75680,1520106,570458,10798,16206,348
 2021-01-05,Italy,2181619,76329,1536129,569161,15375,16023,649
 2021-01-06,Italy,2201945,76877,1556356,568712,20326,20227,548
+2021-01-07,Italy,2220361,77291,1572015,571055,18416,15659,414
 2020-01-23,Jamaica,0,0,0,0,0,0,0
 2020-01-24,Jamaica,0,0,0,0,0,0,0
 2020-01-25,Jamaica,0,0,0,0,0,0,0
@@ -30449,6 +30535,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Jamaica,13203,304,10973,1926,154,140,0
 2021-01-05,Jamaica,13246,305,11106,1835,43,133,1
 2021-01-06,Jamaica,13330,306,11182,1842,84,76,1
+2021-01-07,Jamaica,13368,306,11253,1809,38,71,0
 2020-01-23,Japan,2,0,0,2,0,0,0
 2020-01-24,Japan,2,0,0,2,0,0,0
 2020-01-25,Japan,2,0,0,2,0,0,0
@@ -30799,6 +30886,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Japan,248625,3472,200520,44633,3332,2190,43
 2021-01-05,Japan,253571,3548,203265,46758,4946,2745,76
 2021-01-06,Japan,259521,3609,206883,49029,5950,3618,61
+2021-01-07,Japan,267084,3674,210295,53115,7563,3412,65
 2020-01-23,Jordan,0,0,0,0,0,0,0
 2020-01-24,Jordan,0,0,0,0,0,0,0
 2020-01-25,Jordan,0,0,0,0,0,0,0
@@ -31149,6 +31237,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Jordan,299831,3919,278929,16983,1623,2444,16
 2021-01-05,Jordan,301303,3940,281020,16343,1472,2091,21
 2021-01-06,Jordan,302856,3955,282727,16174,1553,1707,15
+2021-01-07,Jordan,304071,3968,284343,15760,1215,1616,13
 2020-01-23,Kazakhstan,0,0,0,0,0,0,0
 2020-01-24,Kazakhstan,0,0,0,0,0,0,0
 2020-01-25,Kazakhstan,0,0,0,0,0,0,0
@@ -31499,6 +31588,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Kazakhstan,204293,2775,178492,23026,730,484,4
 2021-01-05,Kazakhstan,205064,2775,179377,22912,771,885,0
 2021-01-06,Kazakhstan,205933,2781,180364,22788,869,987,6
+2021-01-07,Kazakhstan,206840,2781,181193,22866,907,829,0
 2020-01-23,Kenya,0,0,0,0,0,0,0
 2020-01-24,Kenya,0,0,0,0,0,0,0
 2020-01-25,Kenya,0,0,0,0,0,0,0
@@ -31849,6 +31939,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Kenya,96908,1686,79257,15965,106,184,1
 2021-01-05,Kenya,97127,1690,79357,16080,219,100,4
 2021-01-06,Kenya,97398,1694,79966,15738,271,609,4
+2021-01-07,Kenya,97733,1702,80306,15725,335,340,8
 2020-01-23,"Korea, South",1,0,0,1,0,0,0
 2020-01-24,"Korea, South",2,0,0,2,1,0,0
 2020-01-25,"Korea, South",2,0,0,2,0,0,0
@@ -32199,6 +32290,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,"Korea, South",64979,1007,46172,17800,715,932,26
 2021-01-05,"Korea, South",65818,1027,46995,17796,839,823,20
 2021-01-06,"Korea, South",66686,1046,47649,17991,868,654,19
+2021-01-07,"Korea, South",67358,1081,48369,17908,672,720,35
 2020-01-23,Kosovo,0,0,0,0,0,0,0
 2020-01-24,Kosovo,0,0,0,0,0,0,0
 2020-01-25,Kosovo,0,0,0,0,0,0,0
@@ -32549,6 +32641,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Kosovo,51965,1344,42637,7984,0,0,0
 2021-01-05,Kosovo,52333,1355,43380,7598,368,743,11
 2021-01-06,Kosovo,52333,1355,43380,7598,0,0,0
+2021-01-07,Kosovo,52943,1363,44438,7142,610,1058,8
 2020-01-23,Kuwait,0,0,0,0,0,0,0
 2020-01-24,Kuwait,0,0,0,0,0,0,0
 2020-01-25,Kuwait,0,0,0,0,0,0,0
@@ -32899,6 +32992,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Kuwait,151715,938,147511,3266,372,240,1
 2021-01-05,Kuwait,152027,938,147784,3305,312,273,0
 2021-01-06,Kuwait,152438,938,148015,3485,411,231,0
+2021-01-07,Kuwait,152978,938,148239,3801,540,224,0
 2020-01-23,Kyrgyzstan,0,0,0,0,0,0,0
 2020-01-24,Kyrgyzstan,0,0,0,0,0,0,0
 2020-01-25,Kyrgyzstan,0,0,0,0,0,0,0
@@ -33249,6 +33343,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Kyrgyzstan,81388,1360,76728,3300,0,0,0
 2021-01-05,Kyrgyzstan,81512,1360,76955,3197,124,227,0
 2021-01-06,Kyrgyzstan,81656,1361,77170,3125,144,215,1
+2021-01-07,Kyrgyzstan,81826,1363,77376,3087,170,206,2
 2020-01-23,Laos,0,0,0,0,0,0,0
 2020-01-24,Laos,0,0,0,0,0,0,0
 2020-01-25,Laos,0,0,0,0,0,0,0
@@ -33599,6 +33694,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Laos,41,0,40,1,0,0,0
 2021-01-05,Laos,41,0,40,1,0,0,0
 2021-01-06,Laos,41,0,40,1,0,0,0
+2021-01-07,Laos,41,0,40,1,0,0,0
 2020-01-23,Latvia,0,0,0,0,0,0,0
 2020-01-24,Latvia,0,0,0,0,0,0,0
 2020-01-25,Latvia,0,0,0,0,0,0,0
@@ -33949,6 +34045,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Latvia,43118,692,30892,11534,621,391,12
 2021-01-05,Latvia,43942,722,30892,12328,824,0,30
 2021-01-06,Latvia,45171,754,30892,13525,1229,0,32
+2021-01-07,Latvia,46545,790,34268,11487,1374,3376,36
 2020-01-23,Lebanon,0,0,0,0,0,0,0
 2020-01-24,Lebanon,0,0,0,0,0,0,0
 2020-01-25,Lebanon,0,0,0,0,0,0,0
@@ -34299,6 +34396,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Lebanon,192139,1512,134367,56260,2861,1599,13
 2021-01-05,Lebanon,195759,1529,135596,58634,3620,1229,17
 2021-01-06,Lebanon,199925,1550,136566,61809,4166,970,21
+2021-01-07,Lebanon,204699,1566,137582,65551,4774,1016,16
 2020-01-23,Lesotho,0,0,0,0,0,0,0
 2020-01-24,Lesotho,0,0,0,0,0,0,0
 2020-01-25,Lesotho,0,0,0,0,0,0,0
@@ -34649,6 +34747,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Lesotho,3206,65,1496,1645,0,0,0
 2021-01-05,Lesotho,3206,65,1496,1645,0,0,0
 2021-01-06,Lesotho,4137,73,1538,2526,931,42,8
+2021-01-07,Lesotho,4351,76,1549,2726,214,11,3
 2020-01-23,Liberia,0,0,0,0,0,0,0
 2020-01-24,Liberia,0,0,0,0,0,0,0
 2020-01-25,Liberia,0,0,0,0,0,0,0
@@ -34999,6 +35098,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Liberia,1779,83,1406,290,0,0,0
 2021-01-05,Liberia,1779,83,1406,290,0,0,0
 2021-01-06,Liberia,1779,83,1406,290,0,0,0
+2021-01-07,Liberia,1779,83,1406,290,0,0,0
 2020-01-23,Libya,0,0,0,0,0,0,0
 2020-01-24,Libya,0,0,0,0,0,0,0
 2020-01-25,Libya,0,0,0,0,0,0,0
@@ -35349,6 +35449,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Libya,101975,1526,75288,25161,561,907,16
 2021-01-05,Libya,102456,1536,76244,24676,481,956,10
 2021-01-06,Libya,102880,1546,77435,23899,424,1191,10
+2021-01-07,Libya,103515,1558,78268,23689,635,833,12
 2020-01-23,Liechtenstein,0,0,0,0,0,0,0
 2020-01-24,Liechtenstein,0,0,0,0,0,0,0
 2020-01-25,Liechtenstein,0,0,0,0,0,0,0
@@ -35699,6 +35800,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Liechtenstein,2224,41,1979,204,2,169,2
 2021-01-05,Liechtenstein,2246,45,2005,196,22,26,4
 2021-01-06,Liechtenstein,2295,48,2005,242,49,0,3
+2021-01-07,Liechtenstein,2309,48,2084,177,14,79,0
 2020-01-23,Lithuania,0,0,0,0,0,0,0
 2020-01-24,Lithuania,0,0,0,0,0,0,0
 2020-01-25,Lithuania,0,0,0,0,0,0,0
@@ -36049,6 +36151,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Lithuania,147997,1950,77832,68215,1360,470,307
 2021-01-05,Lithuania,149497,1996,81630,65871,1500,3798,46
 2021-01-06,Lithuania,152215,2036,83837,66342,2718,2207,40
+2021-01-07,Lithuania,154550,2076,86109,66365,2335,2272,40
 2020-01-23,Luxembourg,0,0,0,0,0,0,0
 2020-01-24,Luxembourg,0,0,0,0,0,0,0
 2020-01-25,Luxembourg,0,0,0,0,0,0,0
@@ -36399,6 +36502,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Luxembourg,46986,508,43364,3114,571,2386,13
 2021-01-05,Luxembourg,47149,514,43468,3167,163,104,6
 2021-01-06,Luxembourg,47430,517,43712,3201,281,244,3
+2021-01-07,Luxembourg,47592,521,44187,2884,162,475,4
 2020-01-23,MS Zaandam,0,0,0,0,0,0,0
 2020-01-24,MS Zaandam,0,0,0,0,0,0,0
 2020-01-25,MS Zaandam,0,0,0,0,0,0,0
@@ -36749,6 +36853,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,MS Zaandam,9,2,7,0,0,0,0
 2021-01-05,MS Zaandam,9,2,7,0,0,0,0
 2021-01-06,MS Zaandam,9,2,7,0,0,0,0
+2021-01-07,MS Zaandam,9,2,7,0,0,0,0
 2020-01-23,Madagascar,0,0,0,0,0,0,0
 2020-01-24,Madagascar,0,0,0,0,0,0,0
 2020-01-25,Madagascar,0,0,0,0,0,0,0
@@ -37099,6 +37204,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Madagascar,17767,262,17298,207,0,0,0
 2021-01-05,Madagascar,17767,262,17298,207,0,0,0
 2021-01-06,Madagascar,17767,262,17298,207,0,0,0
+2021-01-07,Madagascar,17767,262,17298,207,0,0,0
 2020-01-23,Malawi,0,0,0,0,0,0,0
 2020-01-24,Malawi,0,0,0,0,0,0,0
 2020-01-25,Malawi,0,0,0,0,0,0,0
@@ -37449,6 +37555,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Malawi,6935,196,5718,1021,91,3,1
 2021-01-05,Malawi,7110,199,5753,1158,175,35,3
 2021-01-06,Malawi,7337,199,5787,1351,227,34,0
+2021-01-07,Malawi,7611,203,5791,1617,274,4,4
 2020-01-23,Malaysia,0,0,0,0,0,0,0
 2020-01-24,Malaysia,0,0,0,0,1,0,0
 2020-01-25,Malaysia,3,0,0,3,3,0,0
@@ -37799,6 +37906,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Malaysia,120818,501,98228,22089,1741,1010,7
 2021-01-05,Malaysia,122845,509,99449,22887,2027,1221,8
 2021-01-06,Malaysia,125438,513,100578,24347,2593,1129,4
+2021-01-07,Malaysia,128465,521,102723,25221,3027,2145,8
 2020-01-23,Maldives,0,0,0,0,0,0,0
 2020-01-24,Maldives,0,0,0,0,0,0,0
 2020-01-25,Maldives,0,0,0,0,0,0,0
@@ -38149,6 +38257,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Maldives,13893,48,13204,641,26,13,0
 2021-01-05,Maldives,13930,48,13217,665,37,13,0
 2021-01-06,Maldives,13967,48,13225,694,37,8,0
+2021-01-07,Maldives,13988,49,13238,701,21,13,1
 2020-01-23,Mali,0,0,0,0,0,0,0
 2020-01-24,Mali,0,0,0,0,0,0,0
 2020-01-25,Mali,0,0,0,0,0,0,0
@@ -38499,6 +38608,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Mali,7260,279,4994,1987,7,81,1
 2021-01-05,Mali,7349,284,5070,1995,89,76,5
 2021-01-06,Mali,7395,285,5110,2000,46,40,1
+2021-01-07,Mali,7427,286,5161,1980,32,51,1
 2020-01-23,Malta,0,0,0,0,0,0,0
 2020-01-24,Malta,0,0,0,0,0,0,0
 2020-01-25,Malta,0,0,0,0,0,0,0
@@ -38849,6 +38959,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Malta,13230,222,11386,1622,148,111,2
 2021-01-05,Malta,13388,226,11460,1702,158,74,4
 2021-01-06,Malta,13612,227,11540,1845,224,80,1
+2021-01-07,Malta,13776,228,11613,1935,164,73,1
 2020-01-23,Marshall Islands,0,0,0,0,0,0,0
 2020-01-24,Marshall Islands,0,0,0,0,0,0,0
 2020-01-25,Marshall Islands,0,0,0,0,0,0,0
@@ -39199,6 +39310,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Marshall Islands,4,0,4,0,0,0,0
 2021-01-05,Marshall Islands,4,0,4,0,0,0,0
 2021-01-06,Marshall Islands,4,0,4,0,0,0,0
+2021-01-07,Marshall Islands,4,0,4,0,0,0,0
 2020-01-23,Mauritania,0,0,0,0,0,0,0
 2020-01-24,Mauritania,0,0,0,0,0,0,0
 2020-01-25,Mauritania,0,0,0,0,0,0,0
@@ -39549,6 +39661,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Mauritania,14875,360,12377,2138,81,241,2
 2021-01-05,Mauritania,14981,367,12639,1975,106,262,7
 2021-01-06,Mauritania,15111,373,12805,1933,130,166,6
+2021-01-07,Mauritania,15214,378,13037,1799,103,232,5
 2020-01-23,Mauritius,0,0,0,0,0,0,0
 2020-01-24,Mauritius,0,0,0,0,0,0,0
 2020-01-25,Mauritius,0,0,0,0,0,0,0
@@ -39899,6 +40012,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Mauritius,531,10,513,8,4,17,0
 2021-01-05,Mauritius,531,10,513,8,0,0,0
 2021-01-06,Mauritius,539,10,514,15,8,1,0
+2021-01-07,Mauritius,539,10,514,15,0,0,0
 2020-01-23,Mexico,0,0,0,0,0,0,0
 2020-01-24,Mexico,0,0,0,0,0,0,0
 2020-01-25,Mexico,0,0,0,0,0,0,0
@@ -40249,6 +40363,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Mexico,1455219,127757,1105834,221628,6464,7403,544
 2021-01-05,Mexico,1466490,128822,1113137,224531,11271,7303,1065
 2021-01-06,Mexico,1479835,129987,1119968,229880,13345,6831,1165
+2021-01-07,Mexico,1493569,131031,1127471,235067,13734,7503,1044
 2020-01-23,Moldova,0,0,0,0,0,0,0
 2020-01-24,Moldova,0,0,0,0,0,0,0
 2020-01-25,Moldova,0,0,0,0,0,0,0
@@ -40599,6 +40714,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Moldova,146309,3054,134021,9234,436,774,17
 2021-01-05,Moldova,146921,3070,134751,9100,612,730,16
 2021-01-06,Moldova,147871,3088,135911,8872,950,1160,18
+2021-01-07,Moldova,148294,3106,136800,8388,423,889,18
 2020-01-23,Monaco,0,0,0,0,0,0,0
 2020-01-24,Monaco,0,0,0,0,0,0,0
 2020-01-25,Monaco,0,0,0,0,0,0,0
@@ -40949,6 +41065,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Monaco,917,3,743,171,10,10,0
 2021-01-05,Monaco,947,3,763,181,30,20,0
 2021-01-06,Monaco,978,3,773,202,31,10,0
+2021-01-07,Monaco,1018,3,793,222,40,20,0
 2020-01-23,Mongolia,0,0,0,0,0,0,0
 2020-01-24,Mongolia,0,0,0,0,0,0,0
 2020-01-25,Mongolia,0,0,0,0,0,0,0
@@ -41299,6 +41416,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Mongolia,1308,1,884,423,22,6,0
 2021-01-05,Mongolia,1308,1,884,423,0,0,0
 2021-01-06,Mongolia,1308,1,884,423,0,0,0
+2021-01-07,Mongolia,1395,2,896,497,87,12,1
 2020-01-23,Montenegro,0,0,0,0,0,0,0
 2020-01-24,Montenegro,0,0,0,0,0,0,0
 2020-01-25,Montenegro,0,0,0,0,0,0,0
@@ -41649,6 +41767,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Montenegro,49630,692,39877,9061,435,530,3
 2021-01-05,Montenegro,50054,699,40369,8986,424,492,7
 2021-01-06,Montenegro,50697,705,40638,9354,643,269,6
+2021-01-07,Montenegro,51160,712,41191,9257,463,553,7
 2020-01-23,Morocco,0,0,0,0,0,0,0
 2020-01-24,Morocco,0,0,0,0,0,0,0
 2020-01-25,Morocco,0,0,0,0,0,0,0
@@ -41999,6 +42118,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Morocco,443802,7538,414972,21292,656,1579,53
 2021-01-05,Morocco,445439,7581,416708,21150,1637,1736,43
 2021-01-06,Morocco,447081,7618,418744,20719,1642,2036,37
+2021-01-07,Morocco,448678,7645,420569,20464,1597,1825,27
 2020-01-23,Mozambique,0,0,0,0,0,0,0
 2020-01-24,Mozambique,0,0,0,0,0,0,0
 2020-01-25,Mozambique,0,0,0,0,0,0,0
@@ -42349,6 +42469,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Mozambique,19463,171,16828,2464,154,63,2
 2021-01-05,Mozambique,19542,171,17069,2302,79,241,0
 2021-01-06,Mozambique,19667,172,17141,2354,125,72,1
+2021-01-07,Mozambique,19961,176,17455,2330,294,314,4
 2020-01-23,Namibia,0,0,0,0,0,0,0
 2020-01-24,Namibia,0,0,0,0,0,0,0
 2020-01-25,Namibia,0,0,0,0,0,0,0
@@ -42699,6 +42820,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Namibia,25386,218,21167,4001,270,112,3
 2021-01-05,Namibia,25887,222,21777,3888,501,610,4
 2021-01-06,Namibia,26319,235,22200,3884,432,423,13
+2021-01-07,Namibia,26682,240,22666,3776,363,466,5
 2020-01-23,Nepal,0,0,0,0,0,0,0
 2020-01-24,Nepal,0,0,0,0,0,0,0
 2020-01-25,Nepal,1,0,0,1,1,0,0
@@ -43049,6 +43171,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Nepal,262262,1885,255088,5289,403,594,7
 2021-01-05,Nepal,262784,1893,255666,5225,522,578,8
 2021-01-06,Nepal,263193,1899,256161,5133,409,495,6
+2021-01-07,Nepal,263605,1903,256644,5058,412,483,4
 2020-01-23,Netherlands,0,0,0,0,0,0,0
 2020-01-24,Netherlands,0,0,0,0,0,0,0
 2020-01-25,Netherlands,0,0,0,0,0,0,0
@@ -43399,6 +43522,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Netherlands,839316,11770,10048,817498,6614,129,63
 2021-01-05,Netherlands,845822,11922,10122,823778,6506,74,152
 2021-01-06,Netherlands,853060,12096,10303,830661,7238,181,174
+2021-01-07,Netherlands,862805,12182,10376,840247,9745,73,86
 2020-01-23,New Zealand,0,0,0,0,0,0,0
 2020-01-24,New Zealand,0,0,0,0,0,0,0
 2020-01-25,New Zealand,0,0,0,0,0,0,0
@@ -43749,6 +43873,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,New Zealand,2186,25,2100,61,5,16,0
 2021-01-05,New Zealand,2186,25,2100,61,0,0,0
 2021-01-06,New Zealand,2188,25,2101,62,2,1,0
+2021-01-07,New Zealand,2188,25,2101,62,0,0,0
 2020-01-23,Nicaragua,0,0,0,0,0,0,0
 2020-01-24,Nicaragua,0,0,0,0,0,0,0
 2020-01-25,Nicaragua,0,0,0,0,0,0,0
@@ -44099,6 +44224,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Nicaragua,6046,165,4225,1656,0,0,0
 2021-01-05,Nicaragua,6097,166,4225,1706,51,0,1
 2021-01-06,Nicaragua,6097,166,4225,1706,0,0,0
+2021-01-07,Nicaragua,6097,166,4225,1706,0,0,0
 2020-01-23,Niger,0,0,0,0,0,0,0
 2020-01-24,Niger,0,0,0,0,0,0,0
 2020-01-25,Niger,0,0,0,0,0,0,0
@@ -44449,6 +44575,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Niger,3465,110,1986,1369,0,0,0
 2021-01-05,Niger,3500,110,2061,1329,35,75,0
 2021-01-06,Niger,3634,113,2182,1339,134,121,3
+2021-01-07,Niger,3706,119,2253,1334,72,71,6
 2020-01-23,Nigeria,0,0,0,0,0,0,0
 2020-01-24,Nigeria,0,0,0,0,0,0,0
 2020-01-25,Nigeria,0,0,0,0,0,0,0
@@ -44799,6 +44926,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Nigeria,91351,1318,75699,14334,1271,655,7
 2021-01-05,Nigeria,92705,1319,76396,14990,1354,697,1
 2021-01-06,Nigeria,94369,1324,77299,15746,1664,903,5
+2021-01-07,Nigeria,95934,1330,77982,16622,1565,683,6
 2020-01-23,North Macedonia,0,0,0,0,0,0,0
 2020-01-24,North Macedonia,0,0,0,0,0,0,0
 2020-01-25,North Macedonia,0,0,0,0,0,0,0
@@ -45149,6 +45277,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,North Macedonia,84129,2550,63532,18047,105,603,20
 2021-01-05,North Macedonia,84709,2559,64104,18046,580,572,9
 2021-01-06,North Macedonia,85328,2571,65793,16964,619,1689,12
+2021-01-07,North Macedonia,85494,2581,66209,16704,166,416,10
 2020-01-23,Norway,0,0,0,0,0,0,0
 2020-01-24,Norway,0,0,0,0,0,0,0
 2020-01-25,Norway,0,0,0,0,0,0,0
@@ -45499,6 +45628,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Norway,51245,449,17998,32798,529,0,13
 2021-01-05,Norway,52180,452,17998,33730,935,0,3
 2021-01-06,Norway,52967,465,17998,34504,787,0,13
+2021-01-07,Norway,53792,467,17998,35327,825,0,2
 2020-01-23,Oman,0,0,0,0,0,0,0
 2020-01-24,Oman,0,0,0,0,0,0,0
 2020-01-25,Oman,0,0,0,0,0,0,0
@@ -45849,6 +45979,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Oman,129584,1502,122372,5710,180,106,1
 2021-01-05,Oman,129774,1502,122406,5866,190,34,0
 2021-01-06,Oman,129888,1504,122456,5928,114,50,2
+2021-01-07,Oman,130070,1505,122556,6009,182,100,1
 2020-01-23,Pakistan,0,0,0,0,0,0,0
 2020-01-24,Pakistan,0,0,0,0,0,0,0
 2020-01-25,Pakistan,0,0,0,0,0,0,0
@@ -46199,6 +46330,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Pakistan,490476,10409,444360,35707,1947,1903,59
 2021-01-05,Pakistan,492594,10461,448393,33740,2118,4033,52
 2021-01-06,Pakistan,495075,10511,450515,34049,2481,2122,50
+2021-01-07,Pakistan,497510,10558,453828,33124,2435,3313,47
 2020-01-23,Panama,0,0,0,0,0,0,0
 2020-01-24,Panama,0,0,0,0,0,0,0
 2020-01-25,Panama,0,0,0,0,0,0,0
@@ -46549,6 +46681,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Panama,256230,4197,203688,48345,2494,1872,57
 2021-01-05,Panama,259770,4238,206087,49445,3540,2399,41
 2021-01-06,Panama,264956,4283,208620,52053,5186,2533,45
+2021-01-07,Panama,269091,4321,212656,52114,4135,4036,38
 2020-01-23,Papua New Guinea,0,0,0,0,0,0,0
 2020-01-24,Papua New Guinea,0,0,0,0,0,0,0
 2020-01-25,Papua New Guinea,0,0,0,0,0,0,0
@@ -46899,6 +47032,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Papua New Guinea,799,9,755,35,0,0,0
 2021-01-05,Papua New Guinea,799,9,755,35,0,0,0
 2021-01-06,Papua New Guinea,799,9,755,35,0,0,0
+2021-01-07,Papua New Guinea,799,9,755,35,0,0,0
 2020-01-23,Paraguay,0,0,0,0,0,0,0
 2020-01-24,Paraguay,0,0,0,0,0,0,0
 2020-01-25,Paraguay,0,0,0,0,0,0,0
@@ -47249,6 +47383,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Paraguay,109837,2305,85800,21732,764,963,13
 2021-01-05,Paraguay,110796,2321,86786,21689,959,986,16
 2021-01-06,Paraguay,111694,2337,87747,21610,898,961,16
+2021-01-07,Paraguay,112856,2352,88724,21780,1162,977,15
 2020-01-23,Peru,0,0,0,0,0,0,0
 2020-01-24,Peru,0,0,0,0,0,0,0
 2020-01-25,Peru,0,0,0,0,0,0,0
@@ -47599,6 +47734,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Peru,1019475,37830,958682,22963,1376,0,57
 2021-01-05,Peru,1019475,37830,960703,20942,0,2021,0
 2021-01-06,Peru,1022018,37925,962566,21527,2543,1863,95
+2021-01-07,Peru,1022018,37925,962566,21527,0,0,0
 2020-01-23,Philippines,0,0,0,0,0,0,0
 2020-01-24,Philippines,0,0,0,0,0,0,0
 2020-01-25,Philippines,0,0,0,0,0,0,0
@@ -47949,6 +48085,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Philippines,478761,9263,448279,21219,954,21,6
 2021-01-05,Philippines,479693,9321,448375,21997,932,96,58
 2021-01-06,Philippines,480737,9347,448700,22690,1044,325,26
+2021-01-07,Philippines,482083,9356,449052,23675,1346,352,9
 2020-01-23,Poland,0,0,0,0,0,0,0
 2020-01-24,Poland,0,0,0,0,0,0,0
 2020-01-25,Poland,0,0,0,0,0,0,0
@@ -48299,6 +48436,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Poland,1322947,29161,1069554,224232,4385,6461,42
 2021-01-05,Poland,1330543,29502,1078892,222149,7596,9338,341
 2021-01-06,Poland,1344763,30055,1087744,226964,14220,8852,553
+2021-01-07,Poland,1356882,30241,1095616,231025,12119,7872,186
 2020-01-23,Portugal,0,0,0,0,0,0,0
 2020-01-24,Portugal,0,0,0,0,0,0,0
 2020-01-25,Portugal,0,0,0,0,0,0,0
@@ -48649,6 +48787,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Portugal,431623,7196,344419,80008,4369,1884,78
 2021-01-05,Portugal,436579,7286,349110,80183,4956,4691,90
 2021-01-06,Portugal,446606,7377,352225,87004,10027,3115,91
+2021-01-07,Portugal,456533,7472,355701,93360,9927,3476,95
 2020-01-23,Qatar,0,0,0,0,0,0,0
 2020-01-24,Qatar,0,0,0,0,0,0,0
 2020-01-25,Qatar,0,0,0,0,0,0,0
@@ -48999,6 +49138,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Qatar,144644,245,141925,2474,207,117,0
 2021-01-05,Qatar,144852,245,142056,2551,208,131,0
 2021-01-06,Qatar,145061,245,142182,2634,209,126,0
+2021-01-07,Qatar,145271,245,142314,2712,210,132,0
 2020-01-23,Romania,0,0,0,0,0,0,0
 2020-01-24,Romania,0,0,0,0,0,0,0
 2020-01-25,Romania,0,0,0,0,0,0,0
@@ -49349,6 +49489,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Romania,643559,16057,577198,50304,3130,2301,78
 2021-01-05,Romania,648288,16178,581856,50254,4729,4658,121
 2021-01-06,Romania,654007,16299,586764,50944,5719,4908,121
+2021-01-07,Romania,658958,16410,591596,50952,4951,4832,111
 2020-01-23,Russia,0,0,0,0,0,0,0
 2020-01-24,Russia,0,0,0,0,0,0,0
 2020-01-25,Russia,0,0,0,0,0,0,0
@@ -49699,6 +49840,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Russia,3226758,58203,2612934,555621,23015,20997,473
 2021-01-05,Russia,3250713,58706,2635242,556765,23955,22308,503
 2021-01-06,Russia,3274615,59137,2657994,557484,23902,22752,431
+2021-01-07,Russia,3297833,59628,2681373,556832,23218,23379,491
 2020-01-23,Rwanda,0,0,0,0,0,0,0
 2020-01-24,Rwanda,0,0,0,0,0,0,0
 2020-01-25,Rwanda,0,0,0,0,0,0,0
@@ -50049,6 +50191,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Rwanda,8848,105,6816,1927,172,64,4
 2021-01-05,Rwanda,8955,110,6878,1967,107,62,5
 2021-01-06,Rwanda,9058,112,6940,2006,103,62,2
+2021-01-07,Rwanda,9225,113,6940,2172,167,0,1
 2020-01-23,Saint Kitts and Nevis,0,0,0,0,0,0,0
 2020-01-24,Saint Kitts and Nevis,0,0,0,0,0,0,0
 2020-01-25,Saint Kitts and Nevis,0,0,0,0,0,0,0
@@ -50399,6 +50542,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Saint Kitts and Nevis,33,0,31,2,0,0,0
 2021-01-05,Saint Kitts and Nevis,33,0,31,2,0,0,0
 2021-01-06,Saint Kitts and Nevis,33,0,31,2,0,0,0
+2021-01-07,Saint Kitts and Nevis,33,0,31,2,0,0,0
 2020-01-23,Saint Lucia,0,0,0,0,0,0,0
 2020-01-24,Saint Lucia,0,0,0,0,0,0,0
 2020-01-25,Saint Lucia,0,0,0,0,0,0,0
@@ -50749,6 +50893,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Saint Lucia,360,5,292,63,7,3,0
 2021-01-05,Saint Lucia,380,5,292,83,20,0,0
 2021-01-06,Saint Lucia,382,5,292,85,2,0,0
+2021-01-07,Saint Lucia,383,5,304,74,1,12,0
 2020-01-23,Saint Vincent and the Grenadines,0,0,0,0,0,0,0
 2020-01-24,Saint Vincent and the Grenadines,0,0,0,0,0,0,0
 2020-01-25,Saint Vincent and the Grenadines,0,0,0,0,0,0,0
@@ -51099,6 +51244,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Saint Vincent and the Grenadines,124,0,100,24,0,0,0
 2021-01-05,Saint Vincent and the Grenadines,133,0,100,33,9,0,0
 2021-01-06,Saint Vincent and the Grenadines,149,0,100,49,16,0,0
+2021-01-07,Saint Vincent and the Grenadines,149,0,100,49,0,0,0
 2020-01-23,Samoa,0,0,0,0,0,0,0
 2020-01-24,Samoa,0,0,0,0,0,0,0
 2020-01-25,Samoa,0,0,0,0,0,0,0
@@ -51449,6 +51595,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Samoa,2,0,2,0,0,0,0
 2021-01-05,Samoa,2,0,2,0,0,0,0
 2021-01-06,Samoa,2,0,2,0,0,0,0
+2021-01-07,Samoa,2,0,2,0,0,0,0
 2020-01-23,San Marino,0,0,0,0,0,0,0
 2020-01-24,San Marino,0,0,0,0,0,0,0
 2020-01-25,San Marino,0,0,0,0,0,0,0
@@ -51799,6 +51946,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,San Marino,2493,62,2127,304,65,85,3
 2021-01-05,San Marino,2549,62,2158,329,56,31,0
 2021-01-06,San Marino,2549,62,2158,329,0,0,0
+2021-01-07,San Marino,2583,64,2179,340,34,21,2
 2020-01-23,Sao Tome and Principe,0,0,0,0,0,0,0
 2020-01-24,Sao Tome and Principe,0,0,0,0,0,0,0
 2020-01-25,Sao Tome and Principe,0,0,0,0,0,0,0
@@ -52149,6 +52297,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Sao Tome and Principe,1024,17,983,24,0,2,0
 2021-01-05,Sao Tome and Principe,1024,17,987,20,0,4,0
 2021-01-06,Sao Tome and Principe,1025,17,987,21,1,0,0
+2021-01-07,Sao Tome and Principe,1035,17,988,30,10,1,0
 2020-01-23,Saudi Arabia,0,0,0,0,0,0,0
 2020-01-24,Saudi Arabia,0,0,0,0,0,0,0
 2020-01-25,Saudi Arabia,0,0,0,0,0,0,0
@@ -52499,6 +52648,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Saudi Arabia,363155,6256,354609,2290,94,166,10
 2021-01-05,Saudi Arabia,363259,6265,354755,2239,104,146,9
 2021-01-06,Saudi Arabia,363377,6272,354899,2206,118,144,7
+2021-01-07,Saudi Arabia,363485,6278,355037,2170,108,138,6
 2020-01-23,Senegal,0,0,0,0,0,0,0
 2020-01-24,Senegal,0,0,0,0,0,0,0
 2020-01-25,Senegal,0,0,0,0,0,0,0
@@ -52849,6 +52999,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Senegal,19803,424,17615,1764,106,100,3
 2021-01-05,Senegal,19964,428,17690,1846,161,75,4
 2021-01-06,Senegal,20156,433,17782,1941,192,92,5
+2021-01-07,Senegal,20376,438,17885,2053,220,103,5
 2020-01-23,Serbia,0,0,0,0,0,0,0
 2020-01-24,Serbia,0,0,0,0,0,0,0
 2020-01-25,Serbia,0,0,0,0,0,0,0
@@ -53199,6 +53350,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Serbia,346585,3364,0,343221,2715,0,39
 2021-01-05,Serbia,349238,3405,0,345833,2653,0,41
 2021-01-06,Serbia,352120,3444,0,348676,2882,0,39
+2021-01-07,Serbia,353907,3479,0,350428,1787,0,35
 2020-01-23,Seychelles,0,0,0,0,0,0,0
 2020-01-24,Seychelles,0,0,0,0,0,0,0
 2020-01-25,Seychelles,0,0,0,0,0,0,0
@@ -53549,6 +53701,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Seychelles,313,0,214,99,16,0,0
 2021-01-05,Seychelles,313,0,214,99,0,0,0
 2021-01-06,Seychelles,313,0,214,99,0,0,0
+2021-01-07,Seychelles,313,0,214,99,0,0,0
 2020-01-23,Sierra Leone,0,0,0,0,0,0,0
 2020-01-24,Sierra Leone,0,0,0,0,0,0,0
 2020-01-25,Sierra Leone,0,0,0,0,0,0,0
@@ -53899,6 +54052,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Sierra Leone,2673,76,1910,687,0,0,0
 2021-01-05,Sierra Leone,2724,76,1924,724,51,14,0
 2021-01-06,Sierra Leone,2739,76,1929,734,15,5,0
+2021-01-07,Sierra Leone,2757,77,1973,707,18,44,1
 2020-01-23,Singapore,1,0,0,1,1,0,0
 2020-01-24,Singapore,3,0,0,3,2,0,0
 2020-01-25,Singapore,3,0,0,3,0,0,0
@@ -54249,6 +54403,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Singapore,58721,29,58497,195,24,10,0
 2021-01-05,Singapore,58749,29,58517,203,28,20,0
 2021-01-06,Singapore,58780,29,58541,210,31,24,0
+2021-01-07,Singapore,58813,29,58562,222,33,21,0
 2020-01-23,Slovakia,0,0,0,0,0,0,0
 2020-01-24,Slovakia,0,0,0,0,0,0,0
 2020-01-25,Slovakia,0,0,0,0,0,0,0
@@ -54599,6 +54754,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Slovakia,188099,2521,130897,54681,636,903,204
 2021-01-05,Slovakia,191088,2603,132852,55633,2989,1955,82
 2021-01-06,Slovakia,196047,2657,135760,57630,4959,2908,54
+2021-01-07,Slovakia,198184,2717,138383,57084,2137,2623,60
 2020-01-23,Slovenia,0,0,0,0,0,0,0
 2020-01-24,Slovenia,0,0,0,0,0,0,0
 2020-01-25,Slovenia,0,0,0,0,0,0,0
@@ -54949,6 +55105,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Slovenia,125858,2838,103467,19553,772,360,35
 2021-01-05,Slovenia,128370,2868,104988,20514,2512,1521,30
 2021-01-06,Slovenia,131724,2899,107103,21722,3354,2115,31
+2021-01-07,Slovenia,134545,2922,109148,22475,2821,2045,23
 2020-01-23,Solomon Islands,0,0,0,0,0,0,0
 2020-01-24,Solomon Islands,0,0,0,0,0,0,0
 2020-01-25,Solomon Islands,0,0,0,0,0,0,0
@@ -55299,6 +55456,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Solomon Islands,17,0,5,12,0,0,0
 2021-01-05,Solomon Islands,17,0,5,12,0,0,0
 2021-01-06,Solomon Islands,17,0,5,12,0,0,0
+2021-01-07,Solomon Islands,17,0,10,7,0,5,0
 2020-01-23,Somalia,0,0,0,0,0,0,0
 2020-01-24,Somalia,0,0,0,0,0,0,0
 2020-01-25,Somalia,0,0,0,0,0,0,0
@@ -55649,6 +55807,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Somalia,4714,130,3612,972,0,0,0
 2021-01-05,Somalia,4714,130,3612,972,0,0,0
 2021-01-06,Somalia,4726,130,3639,957,12,27,0
+2021-01-07,Somalia,4726,130,3639,957,0,0,0
 2020-01-23,South Africa,0,0,0,0,0,0,0
 2020-01-24,South Africa,0,0,0,0,0,0,0
 2020-01-25,South Africa,0,0,0,0,0,0,0
@@ -55999,6 +56158,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,South Africa,1113349,30011,911573,171765,12601,7894,434
 2021-01-05,South Africa,1127759,30524,920879,176356,14410,9306,513
 2021-01-06,South Africa,1149591,31368,929239,188984,21832,8360,844
+2021-01-07,South Africa,1170590,31809,938216,200565,20999,8977,441
 2020-01-23,South Sudan,0,0,0,0,0,0,0
 2020-01-24,South Sudan,0,0,0,0,0,0,0
 2020-01-25,South Sudan,0,0,0,0,0,0,0
@@ -56349,6 +56509,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,South Sudan,3589,63,3131,395,31,0,0
 2021-01-05,South Sudan,3589,63,3131,395,0,0,0
 2021-01-06,South Sudan,3589,63,3131,395,0,0,0
+2021-01-07,South Sudan,3589,63,3131,395,0,0,0
 2020-01-23,Spain,0,0,0,0,0,0,0
 2020-01-24,Spain,0,0,0,0,0,0,0
 2020-01-25,Spain,0,0,0,0,0,0,0
@@ -56699,6 +56860,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Spain,1958844,51078,150376,1757390,30579,0,241
 2021-01-05,Spain,1982544,51430,150376,1780738,23700,0,352
 2021-01-06,Spain,1982544,51430,150376,1780738,0,0,0
+2021-01-07,Spain,2024904,51675,150376,1822853,42360,0,245
 2020-01-23,Sri Lanka,0,0,0,0,0,0,0
 2020-01-24,Sri Lanka,0,0,0,0,0,0,0
 2020-01-25,Sri Lanka,0,0,0,0,0,0,0
@@ -57049,6 +57211,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Sri Lanka,45242,215,37817,7210,468,565,4
 2021-01-05,Sri Lanka,45726,217,38262,7247,484,445,2
 2021-01-06,Sri Lanka,46248,219,39023,7006,522,761,2
+2021-01-07,Sri Lanka,46780,222,39661,6897,532,638,3
 2020-01-23,Sudan,0,0,0,0,0,0,0
 2020-01-24,Sudan,0,0,0,0,0,0,0
 2020-01-25,Sudan,0,0,0,0,0,0,0
@@ -57399,6 +57562,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Sudan,23316,1468,13524,8324,0,0,0
 2021-01-05,Sudan,23316,1468,13524,8324,0,0,0
 2021-01-06,Sudan,23316,1468,13524,8324,0,0,0
+2021-01-07,Sudan,23316,1468,13524,8324,0,0,0
 2020-01-23,Suriname,0,0,0,0,0,0,0
 2020-01-24,Suriname,0,0,0,0,0,0,0
 2020-01-25,Suriname,0,0,0,0,0,0,0
@@ -57749,6 +57913,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Suriname,6493,124,5913,456,100,30,1
 2021-01-05,Suriname,6586,125,5967,494,93,54,1
 2021-01-06,Suriname,6666,126,6021,519,80,54,1
+2021-01-07,Suriname,6750,130,6080,540,84,59,4
 2020-01-23,Sweden,0,0,0,0,0,0,0
 2020-01-24,Sweden,0,0,0,0,0,0,0
 2020-01-25,Sweden,0,0,0,0,0,0,0
@@ -58099,6 +58264,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Sweden,437379,8727,0,428652,0,0,0
 2021-01-05,Sweden,469748,8985,0,460763,32369,0,258
 2021-01-06,Sweden,469748,8985,0,460763,0,0,0
+2021-01-07,Sweden,482284,9262,0,473022,12536,0,277
 2020-01-23,Switzerland,0,0,0,0,0,0,0
 2020-01-24,Switzerland,0,0,0,0,0,0,0
 2020-01-25,Switzerland,0,0,0,0,0,0,0
@@ -58449,6 +58615,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Switzerland,461961,7918,317600,136443,9665,0,171
 2021-01-05,Switzerland,465981,8018,317600,140363,4020,0,100
 2021-01-06,Switzerland,470789,8109,317600,145080,4808,0,91
+2021-01-07,Switzerland,474764,8178,317600,148986,3975,0,69
 2020-01-23,Syria,0,0,0,0,0,0,0
 2020-01-24,Syria,0,0,0,0,0,0,0
 2020-01-25,Syria,0,0,0,0,0,0,0
@@ -58799,6 +58966,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Syria,11799,734,5615,5450,89,69,5
 2021-01-05,Syria,11890,741,5686,5463,91,71,7
 2021-01-06,Syria,11988,747,5753,5488,98,67,6
+2021-01-07,Syria,12084,755,5824,5505,96,71,8
 2020-01-23,Taiwan*,1,0,0,1,0,0,0
 2020-01-24,Taiwan*,3,0,0,3,2,0,0
 2020-01-25,Taiwan*,3,0,0,3,0,0,0
@@ -59149,6 +59317,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Taiwan*,815,7,696,112,3,7,0
 2021-01-05,Taiwan*,817,7,697,113,2,1,0
 2021-01-06,Taiwan*,819,7,700,112,2,3,0
+2021-01-07,Taiwan*,822,7,708,107,3,8,0
 2020-01-23,Tajikistan,0,0,0,0,0,0,0
 2020-01-24,Tajikistan,0,0,0,0,0,0,0
 2020-01-25,Tajikistan,0,0,0,0,0,0,0
@@ -59499,6 +59668,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Tajikistan,13300,90,13018,192,0,38,0
 2021-01-05,Tajikistan,13305,90,13060,155,5,42,0
 2021-01-06,Tajikistan,13305,90,13111,104,0,51,0
+2021-01-07,Tajikistan,13305,90,13153,62,0,42,0
 2020-01-23,Tanzania,0,0,0,0,0,0,0
 2020-01-24,Tanzania,0,0,0,0,0,0,0
 2020-01-25,Tanzania,0,0,0,0,0,0,0
@@ -59849,6 +60019,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Tanzania,509,21,183,305,0,0,0
 2021-01-05,Tanzania,509,21,183,305,0,0,0
 2021-01-06,Tanzania,509,21,183,305,0,0,0
+2021-01-07,Tanzania,509,21,183,305,0,0,0
 2020-01-23,Thailand,3,0,0,3,1,0,0
 2020-01-24,Thailand,5,0,0,5,2,0,0
 2020-01-25,Thailand,7,0,0,7,2,1,0
@@ -60199,6 +60370,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Thailand,8966,65,4397,4504,527,45,0
 2021-01-05,Thailand,9331,66,4418,4847,365,21,1
 2021-01-06,Thailand,9636,67,4521,5048,305,103,1
+2021-01-07,Thailand,9841,67,5255,4519,205,734,0
 2020-01-23,Timor-Leste,0,0,0,0,0,0,0
 2020-01-24,Timor-Leste,0,0,0,0,0,0,0
 2020-01-25,Timor-Leste,0,0,0,0,0,0,0
@@ -60549,6 +60721,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Timor-Leste,49,0,37,12,3,5,0
 2021-01-05,Timor-Leste,49,0,37,12,0,0,0
 2021-01-06,Timor-Leste,49,0,37,12,0,0,0
+2021-01-07,Timor-Leste,49,0,40,9,0,3,0
 2020-01-23,Togo,0,0,0,0,0,0,0
 2020-01-24,Togo,0,0,0,0,0,0,0
 2020-01-25,Togo,0,0,0,0,0,0,0
@@ -60899,6 +61072,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Togo,3722,69,3479,174,20,5,1
 2021-01-05,Togo,3770,69,3515,186,48,36,0
 2021-01-06,Togo,3807,70,3544,193,37,29,1
+2021-01-07,Togo,3845,72,3560,213,38,16,2
 2020-01-23,Trinidad and Tobago,0,0,0,0,0,0,0
 2020-01-24,Trinidad and Tobago,0,0,0,0,0,0,0
 2020-01-25,Trinidad and Tobago,0,0,0,0,0,0,0
@@ -61249,6 +61423,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Trinidad and Tobago,7178,127,6718,333,10,28,0
 2021-01-05,Trinidad and Tobago,7186,127,6735,324,8,17,0
 2021-01-06,Trinidad and Tobago,7196,127,6744,325,10,9,0
+2021-01-07,Trinidad and Tobago,7210,127,6774,309,14,30,0
 2020-01-23,Tunisia,0,0,0,0,0,0,0
 2020-01-24,Tunisia,0,0,0,0,0,0,0
 2020-01-25,Tunisia,0,0,0,0,0,0,0
@@ -61599,6 +61774,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Tunisia,144796,4862,108491,31443,1252,1442,62
 2021-01-05,Tunisia,147061,4934,110324,31803,2265,1833,72
 2021-01-06,Tunisia,149881,5004,111599,33278,2820,1275,70
+2021-01-07,Tunisia,152254,5052,113415,33787,2373,1816,48
 2020-01-23,Turkey,0,0,0,0,0,0,0
 2020-01-24,Turkey,0,0,0,0,0,0,0
 2020-01-25,Turkey,0,0,0,0,0,0,0
@@ -61949,6 +62125,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Turkey,2255607,21685,2146430,87492,13695,9896,197
 2021-01-05,Turkey,2270101,21879,2155338,92884,14494,8908,194
 2021-01-06,Turkey,2283931,22070,2164040,97821,13830,8702,191
+2021-01-07,Turkey,2296102,22264,2172251,101587,12171,8211,194
 2020-01-23,US,1,0,0,1,0,0,0
 2020-01-24,US,2,0,0,2,1,0,0
 2020-01-25,US,2,0,0,2,0,0,0
@@ -62299,6 +62476,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,US,20819087,353502,0,20465585,175858,0,1856
 2021-01-05,US,21049605,357269,0,20692336,230518,0,3767
 2021-01-06,US,21299340,361123,0,20938217,249735,0,3854
+2021-01-07,US,21579569,365317,0,21214252,280229,0,4194
 2020-01-23,Uganda,0,0,0,0,0,0,0
 2020-01-24,Uganda,0,0,0,0,0,0,0
 2020-01-25,Uganda,0,0,0,0,0,0,0
@@ -62649,6 +62827,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Uganda,36050,274,12267,23509,128,230,0
 2021-01-05,Uganda,36407,290,12387,23730,357,120,16
 2021-01-06,Uganda,36702,294,12494,23914,295,107,4
+2021-01-07,Uganda,37074,297,12544,24233,372,50,3
 2020-01-23,Ukraine,0,0,0,0,0,0,0
 2020-01-24,Ukraine,0,0,0,0,0,0,0
 2020-01-25,Ukraine,0,0,0,0,0,0,0
@@ -62999,6 +63178,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Ukraine,1111631,19712,760660,331259,4494,4850,82
 2021-01-05,Ukraine,1117256,19929,774834,322493,5625,14174,217
 2021-01-06,Ukraine,1124482,20171,789627,314684,7226,14793,242
+2021-01-07,Ukraine,1133802,20334,801293,312175,9320,11666,163
 2020-01-23,United Arab Emirates,0,0,0,0,0,0,0
 2020-01-24,United Arab Emirates,0,0,0,0,0,0,0
 2020-01-25,United Arab Emirates,0,0,0,0,0,0,0
@@ -63349,6 +63529,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,United Arab Emirates,214732,682,191455,22595,1501,1746,3
 2021-01-05,United Arab Emirates,216699,685,193321,22693,1967,1866,3
 2021-01-06,United Arab Emirates,218766,689,195520,22557,2067,2199,4
+2021-01-07,United Arab Emirates,221754,694,199178,21882,2988,3658,5
 2020-01-23,United Kingdom,0,0,0,0,0,0,0
 2020-01-24,United Kingdom,0,0,0,0,0,0,0
 2020-01-25,United Kingdom,0,0,0,0,0,0,0
@@ -63699,6 +63880,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,United Kingdom,2721622,75547,6260,2639815,58923,166,410
 2021-01-05,United Kingdom,2782709,76428,6383,2699898,61087,123,881
 2021-01-06,United Kingdom,2845265,77470,6448,2761347,62556,65,1042
+2021-01-07,United Kingdom,2898052,78632,6520,2812900,52787,72,1162
 2020-01-23,Uruguay,0,0,0,0,0,0,0
 2020-01-24,Uruguay,0,0,0,0,0,0,0
 2020-01-25,Uruguay,0,0,0,0,0,0,0
@@ -64049,6 +64231,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Uruguay,21426,211,15539,5676,603,414,7
 2021-01-05,Uruguay,22104,217,15919,5968,678,380,6
 2021-01-06,Uruguay,23048,221,16540,6287,944,621,4
+2021-01-07,Uruguay,23807,231,17098,6478,759,558,10
 2020-01-23,Uzbekistan,0,0,0,0,0,0,0
 2020-01-24,Uzbekistan,0,0,0,0,0,0,0
 2020-01-25,Uzbekistan,0,0,0,0,0,0,0
@@ -64399,6 +64582,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Uzbekistan,77258,614,75437,1207,0,0,0
 2021-01-05,Uzbekistan,77295,614,75545,1136,37,108,0
 2021-01-06,Uzbekistan,77350,615,75650,1085,55,105,1
+2021-01-07,Uzbekistan,77412,615,75759,1038,62,109,0
 2020-01-23,Vanuatu,0,0,0,0,0,0,0
 2020-01-24,Vanuatu,0,0,0,0,0,0,0
 2020-01-25,Vanuatu,0,0,0,0,0,0,0
@@ -64749,6 +64933,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Vanuatu,1,0,1,0,0,0,0
 2021-01-05,Vanuatu,1,0,1,0,0,0,0
 2021-01-06,Vanuatu,1,0,1,0,0,0,0
+2021-01-07,Vanuatu,1,0,1,0,0,0,0
 2020-01-23,Venezuela,0,0,0,0,0,0,0
 2020-01-24,Venezuela,0,0,0,0,0,0,0
 2020-01-25,Venezuela,0,0,0,0,0,0,0
@@ -65099,6 +65284,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Venezuela,114407,1038,108468,4901,177,200,4
 2021-01-05,Venezuela,114662,1042,108732,4888,255,264,4
 2021-01-06,Venezuela,114908,1047,108966,4895,246,234,5
+2021-01-07,Venezuela,115322,1052,109364,4906,414,398,5
 2020-01-23,Vietnam,2,0,0,2,2,0,0
 2020-01-24,Vietnam,2,0,0,2,0,0,0
 2020-01-25,Vietnam,2,0,0,2,0,0,0
@@ -65449,6 +65635,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Vietnam,1497,35,1339,123,3,0,0
 2021-01-05,Vietnam,1504,35,1339,130,7,0,0
 2021-01-06,Vietnam,1505,35,1353,117,1,14,0
+2021-01-07,Vietnam,1509,35,1353,121,4,0,0
 2020-01-23,West Bank and Gaza,0,0,0,0,0,0,0
 2020-01-24,West Bank and Gaza,0,0,0,0,0,0,0
 2020-01-25,West Bank and Gaza,0,0,0,0,0,0,0
@@ -65799,6 +65986,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,West Bank and Gaza,142228,1490,122976,17762,1009,1413,20
 2021-01-05,West Bank and Gaza,143169,1505,124525,17139,941,1549,15
 2021-01-06,West Bank and Gaza,144257,1519,126110,16628,1088,1585,14
+2021-01-07,West Bank and Gaza,145252,1536,127495,16221,995,1385,17
 2020-01-23,Yemen,0,0,0,0,0,0,0
 2020-01-24,Yemen,0,0,0,0,0,0,0
 2020-01-25,Yemen,0,0,0,0,0,0,0
@@ -66149,6 +66337,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Yemen,2101,610,1401,90,0,2,0
 2021-01-05,Yemen,2101,610,1401,90,0,0,0
 2021-01-06,Yemen,2102,610,1403,89,1,2,0
+2021-01-07,Yemen,2104,610,1405,89,2,2,0
 2020-01-23,Zambia,0,0,0,0,0,0,0
 2020-01-24,Zambia,0,0,0,0,0,0,0
 2020-01-25,Zambia,0,0,0,0,0,0,0
@@ -66499,6 +66688,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Zambia,21993,398,19229,2366,411,146,4
 2021-01-05,Zambia,22645,412,19526,2707,652,297,14
 2021-01-06,Zambia,23495,417,19672,3406,850,146,5
+2021-01-07,Zambia,24297,423,19980,3894,802,308,6
 2020-01-23,Zimbabwe,0,0,0,0,0,0,0
 2020-01-24,Zimbabwe,0,0,0,0,0,0,0
 2020-01-25,Zimbabwe,0,0,0,0,0,0,0
@@ -66849,3 +67039,4 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Recovered,New Death
 2021-01-04,Zimbabwe,15829,384,11716,3729,564,142,4
 2021-01-05,Zimbabwe,17194,418,11813,4963,1365,97,34
 2021-01-06,Zimbabwe,17804,431,11966,5407,610,153,13
+2021-01-07,Zimbabwe,18675,446,12083,6146,871,117,15
